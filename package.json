@@ -25,23 +25,19 @@
     "build"
   ],
   "devDependencies": {
-    "@ckeditor/ckeditor5-adapter-ckfinder": "^17.0.0",
     "@ckeditor/ckeditor5-autoformat": "^17.0.0",
     "@ckeditor/ckeditor5-basic-styles": "^17.0.0",
     "@ckeditor/ckeditor5-block-quote": "^17.0.0",
-    "@ckeditor/ckeditor5-ckfinder": "^17.0.0",
+    "@ckeditor/ckeditor5-mention": "^17.0.0",
     "@ckeditor/ckeditor5-core": "^17.0.0",
     "@ckeditor/ckeditor5-dev-utils": "^12.0.0",
     "@ckeditor/ckeditor5-dev-webpack-plugin": "^8.0.0",
-    "@ckeditor/ckeditor5-easy-image": "^17.0.0",
     "@ckeditor/ckeditor5-editor-classic": "^17.0.0",
     "@ckeditor/ckeditor5-essentials": "^17.0.0",
     "@ckeditor/ckeditor5-heading": "^17.0.0",
-    "@ckeditor/ckeditor5-image": "^17.0.0",
     "@ckeditor/ckeditor5-indent": "^17.0.0",
     "@ckeditor/ckeditor5-link": "^17.0.0",
     "@ckeditor/ckeditor5-list": "^17.0.0",
-    "@ckeditor/ckeditor5-media-embed": "^17.0.0",
     "@ckeditor/ckeditor5-paragraph": "^17.0.0",
     "@ckeditor/ckeditor5-paste-from-office": "^17.0.0",
     "@ckeditor/ckeditor5-table": "^17.0.0",
@@ -65,11 +61,11 @@
   },
   "author": "CKSource (http://cksource.com/)",
   "license": "GPL-2.0-or-later",
-  "homepage": "https://ckeditor.com/ckeditor-5",
+  "homepage": "https://github.com/kunwar97/ckeditor5-build-classic",
   "bugs": "https://github.com/ckeditor/ckeditor5/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ckeditor/ckeditor5-build-classic.git"
+    "url": "https://github.com/kunwar97/ckeditor5-build-classic.git"
   },
   "scripts": {
     "build": "webpack --mode production",
